@@ -1,4 +1,22 @@
 body {
     background-color: rgba(0, 0, 0, 0.884);
     color: white;
+    font-variant-numeric: tabular-nums;
+    font-family: system, -apple-system, BlinkMacSystemFont, 'Open Sans', sans-serif;
+}
+
+table, th, td, caption {
+    border: 1px solid white;
+}
+
+
+
+th, td {
+    font-weight: normal;
+    text-align: center;
+}
+
+th, caption {
+    background-color: darkblue;
+    font-weight: 700;
 }
