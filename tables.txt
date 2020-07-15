@@ -1,0 +1,37 @@
+#table - "Important Units" | [Name,Symbol,Value,Unit]#
+##@length@
+astronomical unit
+AU
+149597870700
+metre
+-#-
+parsec
+pc
+210000
+AU
+-#-
+light-year
+ly
+9460730472580800
+metre
+-#-
+##@length@#
+
+##@mass@
+earth mass
+M_⊕
+5.9722x10^24
+kilogram
+-#-
+jupiter mass
+M_j
+1.89813x10^27
+kilogram
+-#-
+solar mass
+M_☉
+1.98847x10^30
+kilogram
+-#-
+##@mass@#
+#table@#
